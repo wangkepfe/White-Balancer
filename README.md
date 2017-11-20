@@ -1,8 +1,8 @@
 # Computer-Vision-Project-1
 UCSC Computer Vision Project 1
 
-1 Linearize Color Channel(Gamma Correction)
-1-1 log space linear regression
+1 Linearize Color Channel(Gamma Correction)<br>
+1-1 log space linear regression<br>
 1-2 reconstruct linear space color
 
 2 White Balance
