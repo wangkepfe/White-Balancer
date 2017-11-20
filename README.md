@@ -5,9 +5,7 @@ UCSC Computer Vision Project 1
 1-1 log space linear regression<br>
 1-2 reconstruct linear space color
 
-![image](https://github.com/wangkepfe/Computer-Vision-Project-1/blob/master/result/or.png =250x250)
-![image](https://github.com/wangkepfe/Computer-Vision-Project-1/blob/master/result/lrr.png =250x250)
-![image](https://github.com/wangkepfe/Computer-Vision-Project-1/blob/master/result/lr.pn =250x250)
+<img src="https://github.com/wangkepfe/Computer-Vision-Project-1/blob/master/result/or.png" style="width: 200px;"/>
 
 2 White Balance<br>
 2-1 Grey Patch Method<br>
