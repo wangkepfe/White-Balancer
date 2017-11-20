@@ -14,3 +14,7 @@ UCSC Computer Vision Project 1
 2-2 Grey World Hypothesis Method<br>
 2-3 White World Hypothesis Method<br>
 2-4 Specularities Removal
+
+<img src="https://github.com/wangkepfe/Computer-Vision-Project-1/blob/master/result/original.jpg" width="400"/>
+<img src="https://github.com/wangkepfe/Computer-Vision-Project-1/blob/master/result/greyPatch.jpg" width="400"/>
+<img src="https://github.com/wangkepfe/Computer-Vision-Project-1/blob/master/result/greyPatchSpecRemoved.jpg" width="400"/>
